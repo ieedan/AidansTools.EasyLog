@@ -1,0 +1,12 @@
+C:\Users\Aidan Bleser\source\repos\AidansTools.EasyLog\AidansTools.EasyLog\bin\Debug\AidansTools.EasyLog.dll
+C:\Users\Aidan Bleser\source\repos\AidansTools.EasyLog\AidansTools.EasyLog\bin\Debug\AidansTools.EasyLog.pdb
+C:\Users\Aidan Bleser\source\repos\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.csproj.AssemblyReference.cache
+C:\Users\Aidan Bleser\source\repos\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.csproj.CoreCompileInputs.cache
+C:\Users\Aidan Bleser\source\repos\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.dll
+C:\Users\Aidan Bleser\source\repos\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.pdb
+C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\AidansTools.EasyLog\AidansTools.EasyLog\bin\Debug\AidansTools.EasyLog.dll
+C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\AidansTools.EasyLog\AidansTools.EasyLog\bin\Debug\AidansTools.EasyLog.pdb
+C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.csproj.AssemblyReference.cache
+C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.csproj.CoreCompileInputs.cache
+C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.dll
+C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\AidansTools.EasyLog\AidansTools.EasyLog\obj\Debug\AidansTools.EasyLog.pdb
