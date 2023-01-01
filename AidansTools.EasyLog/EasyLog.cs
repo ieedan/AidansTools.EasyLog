@@ -52,9 +52,9 @@ namespace AidansTools.Logging
         /// </summary>
         /// <param name="text"></param>
         /// <returns></returns>
-        public Task LogInfo(string text)
+        public Task LogInfo(object value)
         {
-            string fulltext = $"[{DateTime.Now}] {text}";
+            string fulltext = $"[{DateTime.Now}] {value.ToString()}";
 
             File.AppendAllText(FilePath, fulltext + Environment.NewLine);
 
@@ -70,9 +70,9 @@ namespace AidansTools.Logging
         /// </summary>
         /// <param name="text"></param>
         /// <returns></returns>
-        public Task LogError(string text, [CallerMemberName] string name = null)
+        public Task LogError(object value, [CallerMemberName] string name = null)
         {
-            string fulltext = $"[{DateTime.Now}] [Called by: {name}] {text}".ToUpper();
+            string fulltext = $"[{DateTime.Now}] [Called by: {name}] {value.ToString()}".ToUpper();
 
             File.AppendAllText(FilePath, fulltext + Environment.NewLine);
 
@@ -89,9 +89,9 @@ namespace AidansTools.Logging
         /// <param name="text"></param>
         /// <param name="code"></param>
         /// <returns></returns>
-        public Task LogError(string text, int code, [CallerMemberName] string name = null)
+        public Task LogError(object value, int code, [CallerMemberName] string name = null)
         {
-            string fulltext = $"[{DateTime.Now}] [Error Code {code}] [Called by: {name}] {text}".ToUpper();
+            string fulltext = $"[{DateTime.Now}] [Error Code {code}] [Called by: {name}] {value.ToString()}".ToUpper();
 
             File.AppendAllText(FilePath, fulltext + Environment.NewLine);
 
